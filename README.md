@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm Guilherme</h1>
 
-## <h2 align="center">Sou Desenvolvedor Full Stack</h2> <br/>
+## <h2 align="center">Desenvolvedor Full Stack</h2> <br/>
 
 ### <div align="center"> Paixão por programação e tecnologia. Atualmente, estou sempre estudando para me aprimorar como um desenvolvedor, adoro resolver problemas e criar soluções eficientes e esteticamente agradáveis usando a lógica e a programação.</div> <br/> <br/>
 
